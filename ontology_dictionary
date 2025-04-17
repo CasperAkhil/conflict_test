@@ -3,7 +3,7 @@
     "ontology": "Product Category Ontology",
     "items": [
       {
-        "label": "Herbal Extracts",
+        "label": "Herbal Extracts test-conflict-avisek",
         "aliases": ["Botanical Extracts", "Plant Extracts", "Phytoextracts", "Herbal Concentrates", "Plant-Derived Extracts", "Natural Extracts", "Herb Essences", "Phytochemical Extracts"]
       },
       {
