@@ -1,0 +1,361 @@
+[
+  {
+    "ontology": "Product Category Ontology",
+    "items": [
+      {
+        "label": "Herbal Extracts",
+        "aliases": ["Botanical Extracts", "Plant Extracts", "Phytoextracts", "Herbal Concentrates", "Plant-Derived Extracts", "Natural Extracts", "Herb Essences", "Phytochemical Extracts"]
+      },
+      {
+        "label": "Essential Oils",
+        "aliases": ["Natural Oils", "EO", "Aromatic Oils", "Volatile Oils", "Plant Oils", "Herbal Oils", "Aroma Oils", "Pure Essential Oils", "Distilled Oils", "Therapeutic Oils"]
+      },
+      {
+        "label": "Spices",
+        "aliases": ["Condiments", "Herbal Spices", "Seasonings", "Culinary Spices", "Natural Seasonings", "Aromatic Spices", "Flavoring Spices", "Kitchen Spices", "Spice Blends"]
+      },
+      {
+        "label": "Vitamins & Minerals",
+        "aliases": ["Micronutrients", "Dietary Supplements", "Plant-Based Nutrients", "Herbal Nutrients", "Natural Vitamins", "Botanical Minerals", "Essential Nutrients", "Nutrient Supplements", "Bioavailable Nutrients"]
+      },
+      {
+        "label": "Vegetables & Fruits",
+        "aliases": ["Natural Produce", "Botanical Produce", "Herbal Fruits", "Herbal Vegetables", "Dried Produce", "Plant-Based Produce", "Organic Produce", "Dehydrated Fruits", "Dehydrated Vegetables"]
+      },
+      {
+        "label": "Proteins & Amino Acids",
+        "aliases": ["Peptides", "Protein Extracts", "Plant Proteins", "Herbal Proteins", "Amino Acid Supplements", "Botanical Peptides", "Natural Proteins", "Protein Isolates", "Amino Compounds"]
+      },
+      {
+        "label": "Natural Colors",
+        "aliases": ["Pigments", "Colorants", "Botanical Pigments", "Plant-Based Colors", "Herbal Dyes", "Natural Dyes", "Phytopigments", "Organic Colorants", "Food-Grade Colors"]
+      }
+    ]
+  },
+  {
+    "ontology": "Functionality Ontology",
+    "items": [
+      {
+        "label": "Antioxidant",
+        "aliases": ["Anti-Oxidant", "Free Radical Scavenger", "Oxidative Stress Reducer", "Cell Protector", "Radical Neutralizer", "Antioxidative Agent", "Oxidation Inhibitor", "Reactive Oxygen Scavenger"]
+      },
+      {
+        "label": "Anti-inflammatory",
+        "aliases": ["Inflammation Reducer", "Soothing Agent", "Anti-inflammatory Agent", "Calming Agent", "Inflammation Suppressor", "Anti-swelling Agent", "Pain Reliever", "Inflammatory Response Modulator"]
+      },
+      {
+        "label": "Adaptogen",
+        "aliases": ["Stress Reliever", "Adaptogenic", "Stress Balancer", "Homeostasis Supporter", "Resilience Enhancer", "Stress Response Modulator", "Adaptogenic Herb", "Vitality Stabilizer"]
+      },
+      {
+        "label": "Preservative",
+        "aliases": ["Shelf-life Extender", "Natural Preservative", "Antimicrobial Preserver", "Spoilage Inhibitor", "Product Stabilizer", "Decay Preventer", "Freshness Keeper", "Longevity Enhancer"]
+      },
+      {
+        "label": "Flavoring Agent",
+        "aliases": ["Natural Flavor", "Taste Enhancer", "Flavor Additive", "Aromatic Enhancer", "Taste Modifier", "Culinary Flavor", "Palate Enhancer", "Seasoning Agent", "Flavor Booster"]
+      },
+      {
+        "label": "Moisturizer",
+        "aliases": ["Hydrating Agent", "Skin Hydrator", "Moisture Retainer", "Humectant", "Skin Softener", "Hydration Booster", "Moisture Infuser", "Dermal Hydrator"]
+      },
+      {
+        "label": "Digestive Aid",
+        "aliases": ["Gut Health", "Digestion Support", "Digestive Enhancer", "Gut Soother", "Bowel Supporter", "Stomach Aid", "Digestive Balancer", "Intestinal Health Promoter"]
+      },
+      {
+        "label": "Immunity Booster",
+        "aliases": ["Immune Enhancer", "Immune Support", "Immune Defense", "Immunity Strengthener", "Body Defense Booster", "Immune System Supporter", "Natural Immunity Aid", "Disease Resistance Enhancer"]
+      },
+      {
+        "label": "Colorant",
+        "aliases": ["Natural Pigment", "Natural Dye", "Botanical Color", "Plant-Based Colorant", "Herbal Pigment", "Organic Dye", "Food Color", "Cosmetic Colorant", "Phytocolorant"]
+      },
+      {
+        "label": "Energy Enhancer",
+        "aliases": ["Vitality Booster", "Stimulant", "Energy Booster", "Stamina Enhancer", "Fatigue Fighter", "Vigor Supporter", "Energy Promoter", "Endurance Aid"]
+      },
+      {
+        "label": "Cognitive Enhancer",
+        "aliases": ["Brain Booster", "Memory Enhancer", "Mental Clarity Aid", "Cognitive Supporter", "Focus Enhancer", "Neuroprotective Agent", "Brain Health Promoter", "Memory Booster"]
+      }
+    ]
+  },
+  {
+    "ontology": "Benefits Ontology",
+    "items": [
+      {
+        "label": "Immunity Boost",
+        "aliases": ["Immune Support", "Immune Health", "Immune Defense", "Body Defense", "Immunity Enhancement", "Immune System Strength", "Natural Immunity", "Disease Resistance"]
+      },
+      {
+        "label": "Skin Health",
+        "aliases": ["Dermatological Support", "Anti-aging", "Skin Wellness", "Skin Radiance", "Dermal Health", "Complexion Support", "Skin Rejuvenation", "Skin Vitality"]
+      },
+      {
+        "label": "Digestive Health",
+        "aliases": ["Gut Balance", "Digestive Comfort", "Gut Wellness", "Digestive Wellness", "Bowel Health", "Stomach Health", "Intestinal Balance", "Digestive Harmony"]
+      },
+      {
+        "label": "Cognitive Health",
+        "aliases": ["Brain Function", "Memory Enhancement", "Mental Clarity", "Cognitive Wellness", "Brain Health", "Neurohealth", "Focus Support", "Mental Performance"]
+      },
+      {
+        "label": "Energy & Vitality",
+        "aliases": ["Energy Boost", "Vitality Enhancement", "Stamina Support", "Vigor Boost", "Endurance Support", "Energy Renewal", "Vitality Promoter", "Fatigue Relief"]
+      },
+      {
+        "label": "Heart Health",
+        "aliases": ["Cardiovascular Support", "Heart Wellness", "Cardiac Health", "Circulatory Support", "Heart Vitality", "Cardiovascular Wellness", "Blood Health", "Heart Strength"]
+      },
+      {
+        "label": "Stress Relief",
+        "aliases": ["Relaxation", "Anxiety Relief", "Stress Reduction", "Calmness Support", "Mental Ease", "Tension Relief", "Stress Management", "Emotional Balance"]
+      },
+      {
+        "label": "Joint & Bone Health",
+        "aliases": ["Bone Strengthening", "Joint Support", "Skeletal Health", "Joint Mobility", "Bone Wellness", "Joint Comfort", "Musculoskeletal Support", "Bone Vitality"]
+      },
+      {
+        "label": "Hair Health",
+        "aliases": ["Hair Strengthening", "Hair Growth", "Scalp Health", "Hair Wellness", "Follicle Support", "Hair Vitality", "Hair Nourishment", "Hair Regeneration"]
+      }
+    ]
+  },
+  {
+    "ontology": "Attributes Ontology",
+    "items": [
+      {
+        "label": "Organic",
+        "aliases": ["Certified Organic", "USDA Organic", "Bio-Organic", "Natural Organic", "Pure Organic", "Eco-Organic", "Organic Certified", "Chemical-Free Organic"]
+      },
+      {
+        "label": "Non-GMO",
+        "aliases": ["GMO-Free", "Non-Genetically Modified", "No GMOs", "Natural Genetics", "GMO-Free Certified", "Unmodified Organisms", "Pure Genetics"]
+      },
+      {
+        "label": "Gluten-Free",
+        "aliases": ["GF", "No Gluten", "Gluten-Free Certified", "Celiac-Safe", "Gluten-Free Diet", "Free of Gluten", "Non-Gluten"]
+      },
+      {
+        "label": "Vegan",
+        "aliases": ["Plant-Based", "No Animal Ingredients", "Vegan-Friendly", "Animal-Free", "Pure Vegan", "Vegan Certified", "Cruelty-Free Vegan", "Plant-Derived"]
+      },
+      {
+        "label": "Cruelty-Free",
+        "aliases": ["Not Animal Tested", "Animal-Friendly", "No Animal Testing", "Ethical Product", "Cruelty-Free Certified", "Humane Product", "Non-Animal Tested"]
+      },
+      {
+        "label": "Fair Trade",
+        "aliases": ["Ethically Sourced", "Fairly Traded", "Fair Trade Certified", "Sustainable Trade", "Ethical Trade", "Responsible Sourcing", "Fair Labor", "Equitable Trade"]
+      },
+      {
+        "label": "Kosher",
+        "aliases": ["Kosher Certified", "Kosher Compliant", "Kosher Approved", "Jewish Dietary", "Kosher Standard", "Certified Kosher", "Kosher Law"]
+      },
+      {
+        "label": "Halal",
+        "aliases": ["Halal Certified", "Halal Compliant", "Halal Approved", "Islamic Dietary", "Halal Standard", "Certified Halal", "Halal Law"]
+      }
+    ]
+  },
+  {
+    "ontology": "Certifications Ontology",
+    "items": [
+      {
+        "label": "USDA Organic",
+        "aliases": ["Organic Certified", "US Organic", "USDA Certified Organic", "Bio-Organic Certified", "Natural Organic Certified", "USDA Bio", "Organic Seal", "USDA Organic Approved"]
+      },
+      {
+        "label": "ISO 9001",
+        "aliases": ["Quality Management Certified", "ISO Quality", "Quality Standard Certified", "ISO 9001 Certified", "Quality Assurance", "ISO Quality Management", "Certified Quality System"]
+      },
+      {
+        "label": "ISO 22000",
+        "aliases": ["Food Safety Certified", "ISO Food Safety", "Food Safety Standard", "ISO 22000 Certified", "Safe Food Certification", "Food Quality Certified", "Certified Food Safety"]
+      },
+      {
+        "label": "Non-GMO Project Verified",
+        "aliases": ["Non-GMO Verified", "GMO-Free Certified", "Non-GMO Certification", "GMO-Free Project", "Verified Non-GMO", "Non-Genetically Modified Certified", "Pure Genetics Certified"]
+      },
+      {
+        "label": "FSSAI",
+        "aliases": ["Food Safety Certified", "FSSAI Certified", "Food Standards Authority", "India Food Safety", "FSSAI Approved", "Safe Food Certified", "Food Safety License"]
+      },
+      {
+        "label": "Fair Trade Certified",
+        "aliases": ["Fair Trade Approved", "Certified Fair Trade", "Ethical Trade Certified", "Fairly Traded Certified", "Sustainable Trade Certified", "Fair Labor Certified", "Equitable Trade Certified"]
+      },
+      {
+        "label": "Halal Certified",
+        "aliases": ["Halal", "Halal Approved", "Certified Halal", "Islamic Dietary Certified", "Halal Compliance", "Halal Standard Certified", "Halal Accreditation"]
+      },
+      {
+        "label": "Kosher Certified",
+        "aliases": ["Kosher", "Kosher Approved", "Certified Kosher", "Jewish Dietary Certified", "Kosher Compliance", "Kosher Standard Certified", "Kosher Accreditation"]
+      }
+    ]
+  },
+  {
+    "ontology": "Application Areas Ontology",
+    "items": [
+      {
+        "label": "Dietary Supplements",
+        "aliases": ["Supplements", "Nutraceuticals", "Health Supplements", "Wellness Supplements", "Nutritional Supplements", "Dietary Aids", "Functional Supplements", "Herbal Supplements"]
+      },
+      {
+        "label": "Food & Beverages",
+        "aliases": ["Functional Foods", "Beverage Additives", "Natural Foods", "Herbal Foods", "Culinary Additives", "Food Enhancers", "Natural Beverages", "Health Foods"]
+      },
+      {
+        "label": "Cosmetics & Skincare",
+        "aliases": ["Personal Care", "Beauty Products", "Natural Cosmetics", "Herbal Skincare", "Organic Beauty", "Dermal Care", "Skincare Products", "Botanical Cosmetics"]
+      },
+      {
+        "label": "Pharmaceuticals",
+        "aliases": ["Medicinal Products", "OTC Formulations", "Herbal Medicines", "Natural Pharmaceuticals", "Botanical Drugs", "Therapeutic Products", "Herbal Remedies", "Phytomedicines"]
+      },
+      {
+        "label": "Animal Nutrition",
+        "aliases": ["Veterinary Products", "Animal Feed", "Pet Supplements", "Animal Health Products", "Natural Animal Feed", "Herbal Pet Nutrition", "Veterinary Supplements", "Animal Wellness"]
+      }
+    ]
+  },
+  {
+    "ontology": "Technical & Physical Properties Ontology",
+    "items": [
+      {
+        "label": "Solubility",
+        "aliases": ["Water-soluble", "Oil-soluble", "Dissolvability", "Soluble Property", "Solution Capability", "Dispersibility", "Solubility Level", "Dissolution Property"]
+      },
+      {
+        "label": "pH Range",
+        "aliases": ["Acidity", "Alkalinity", "pH Level", "Acid-Base Balance", "pH Value", "Acidity Level", "Alkaline Property", "pH Spectrum"]
+      },
+      {
+        "label": "Particle Size",
+        "aliases": ["Granularity", "Mesh Size", "Grain Size", "Particle Dimension", "Powder Fineness", "Granule Size", "Texture Size", "Particle Scale"]
+      },
+      {
+        "label": "Moisture Content",
+        "aliases": ["Humidity Level", "Water Content", "Moisture Level", "Hydration Content", "Dampness Level", "Wetness Content", "Moisture Percentage"]
+      },
+      {
+        "label": "Ash Content",
+        "aliases": ["Mineral Content", "Inorganic Residue", "Ash Level", "Mineral Residue", "Burn Residue", "Ash Percentage", "Inorganic Content"]
+      },
+      {
+        "label": "Active Content %",
+        "aliases": ["Potency", "Concentration", "Active Ingredient Level", "Strength Percentage", "Bioactive Content", "Active Compound Level", "Potency Level", "Concentration Percentage"]
+      },
+      {
+        "label": "Purity",
+        "aliases": ["Assay Level", "Purity Level", "Cleanliness", "Contaminant-Free", "Pure Content", "Refined Level", "Quality Purity", "Integrity Level"]
+      }
+    ]
+  },
+  {
+    "ontology": "Organoleptic (Sensory) Properties Ontology",
+    "items": [
+      {
+        "label": "Color (Appearance)",
+        "aliases": ["Visual Color", "Color Profile", "Appearance Color", "Hue", "Shade", "Color Tone", "Visual Hue", "Color Spectrum"]
+      },
+      {
+        "label": "Odor/Aroma",
+        "aliases": ["Smell Profile", "Aroma Profile", "Scent", "Fragrance", "Odor Character", "Aromatic Profile", "Smell Essence", "Nasal Profile"]
+      },
+      {
+        "label": "Taste/Flavor",
+        "aliases": ["Flavor Profile", "Taste Profile", "Palate Flavor", "Taste Essence", "Flavor Character", "Taste Sensation", "Culinary Taste", "Flavor Note"]
+      },
+      {
+        "label": "Mouthfeel/Texture",
+        "aliases": ["Texture", "Mouth Texture", "Feel in Mouth", "Tactile Sensation", "Texture Profile", "Mouth Sensation", "Physical Feel", "Oral Texture"]
+      },
+      {
+        "label": "Aftertaste",
+        "aliases": ["Lingering Taste", "Residual Flavor", "After Flavor", "Taste Aftermath", "Post-Taste", "Lingering Sensation", "Flavor Residue", "Aftertaste Profile"]
+      },
+      {
+        "label": "Visual Consistency",
+        "aliases": ["Appearance Uniformity", "Visual Uniformity", "Consistency Profile", "Appearance Stability", "Visual Texture", "Uniform Look", "Appearance Coherence"]
+      }
+    ]
+  },
+  {
+    "ontology": "Labeling Claims Ontology",
+    "items": [
+      {
+        "label": "100% Natural",
+        "aliases": ["All-Natural", "Purely Natural", "Completely Natural", "Natural Origin", "No Synthetics", "Pure Natural", "Authentic Natural", "Unprocessed Natural"]
+      },
+      {
+        "label": "No Artificial Ingredients",
+        "aliases": ["No Synthetic Components", "Artificial-Free", "No Man-Made Ingredients", "Pure Ingredients", "Natural Only", "No Additives", "Synthetic-Free", "Clean Ingredients"]
+      },
+      {
+        "label": "Preservative-Free",
+        "aliases": ["No Added Preservatives", "Preservative-Free Formula", "No Chemical Preservatives", "Natural Preservation", "Free of Preservatives", "Pure Formula", "Unpreserved"]
+      },
+      {
+        "label": "Sugar-Free",
+        "aliases": ["Zero Sugar", "No Added Sugar", "Sugarless", "Free of Sugar", "No Sweeteners", "Non-Sweetened", "Sugar-Free Formula", "Low-Glycemic"]
+      },
+      {
+        "label": "Low Calorie",
+        "aliases": ["Reduced Calorie", "Calorie-Conscious", "Low-Cal", "Light Calorie", "Calorie-Reduced", "Low Energy", "Diet-Friendly", "Slim Calorie"]
+      }
+    ]
+  },
+  {
+    "ontology": "Marketing & Sales Ontology",
+    "items": [
+      {
+        "label": "Retail",
+        "aliases": ["Physical Stores", "Supermarkets", "Brick-and-Mortar", "In-Store Sales", "Retail Outlets", "Shop Sales", "Storefront Sales", "Traditional Retail"]
+      },
+      {
+        "label": "E-commerce",
+        "aliases": ["Online", "Digital Sales", "Online Marketplace", "Web Sales", "Internet Sales", "E-Retail", "Digital Marketplace", "Online Store"]
+      },
+      {
+        "label": "Direct-to-Consumer",
+        "aliases": ["D2C", "Consumer Direct", "Direct Sales", "Brand-to-Consumer", "Factory-to-Consumer", "Direct Delivery", "Consumer-Focused Sales", "Bypass Retail"]
+      },
+      {
+        "label": "B2B Sales",
+        "aliases": ["Business-to-Business", "Corporate Sales", "Bulk Business Sales", "Trade Sales", "Commercial Sales", "B2B Transactions", "Industry Sales", "Supplier Sales"]
+      },
+      {
+        "label": "Wholesale",
+        "aliases": ["Bulk Sales", "Distributor Sales", "Mass Sales", "Wholesale Trade", "Bulk Distribution", "Large-Scale Sales", "Volume Sales", "Wholesale Supply"]
+      }
+    ]
+  },
+  {
+    "ontology": "Target Consumer Demographics Ontology",
+    "items": [
+      {
+        "label": "Health-Conscious Adults",
+        "aliases": ["Wellness Enthusiasts", "Health-Minded Consumers", "Healthy Lifestyle", "Wellness Seekers", "Health Advocates", "Natural Health Fans", "Conscious Consumers", "Health-Driven Adults"]
+      },
+      {
+        "label": "Athletes & Fitness",
+        "aliases": ["Active Lifestyle", "Fitness Enthusiasts", "Sports Consumers", "Athletic Consumers", "Workout Warriors", "Fitness Buffs", "Active Individuals", "Performance Seekers"]
+      },
+      {
+        "label": "Elderly & Senior Citizens",
+        "aliases": ["Aging Adults", "Seniors", "Older Adults", "Mature Consumers", "Elderly Wellness", "Senior Healthcare", "Aging Population", "Retiree Health"]
+      },
+      {
+        "label": "Parents & Children",
+        "aliases": ["Family Health", "Parental Wellness", "Child Health", "Family Wellness", "Kids and Parents", "Household Health", "Family Nutrition", "Parent-Child Wellness"]
+      },
+      {
+        "label": "Vegetarian & Vegan Consumers",
+        "aliases": ["Plant-Based Consumers", "Veggie Consumers", "Vegan Lifestyle", "Vegetarian Wellness", "Plant-Eaters", "Vegan Health Seekers", "Non-Meat Consumers", "Ethical Eaters"]
+      }
+    ]
+  }
+]
